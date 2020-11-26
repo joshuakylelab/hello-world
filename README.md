@@ -1,2 +1,3 @@
 # hello-world
-tutorial repositiory
+
+Hi! I'm J.
